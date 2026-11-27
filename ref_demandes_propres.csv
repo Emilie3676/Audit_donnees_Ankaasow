@@ -1,0 +1,251 @@
+demande_id,reference_dossier,user_id,type_logement,statut_actuel,date_soumission,statut_professionnel,situation_matrimoniale,revenu_mensuel,commune,province,region
+1,ANK-2026-0001,90,Économique,active,2026-01-11 11:52:51,Chômeur/Chômeuse,Divorcé(e),416824,Ziniaré,Oubritenga,Plateau-Central
+2,ANK-2026-0002,49,Sociale,rejetee,2026-03-26 16:17:45,Chômeur/Chômeuse,Divorcé(e),469897,Ouagadougou,Kadiogo,Centre
+3,ANK-2026-0003,5,Économique,validee,2026-03-25 08:40:02,Chômeur/Chômeuse,Célibataire,52208,Ouagadougou,Kadiogo,Centre
+4,ANK-2026-0004,61,Sociale,correction_demandee,2026-01-22 14:18:29,Salarié(e),Marié(e),526660,Ouagadougou,Kadiogo,Centre
+5,ANK-2026-0005,26,Économique,validee,2026-03-21 06:47:04,Chômeur/Chômeuse,Célibataire,309876,Koudougou,Boulkiemdé,Centre-Ouest
+6,ANK-2026-0006,59,Coopérative de logement,correction_demandee,2026-02-03 22:45:47,Chômeur/Chômeuse,Célibataire,482300,Bobo-Dioulasso,Houet,Hauts-Bassins
+7,ANK-2026-0007,40,Économique,attente,2026-03-21 15:59:18,Fonctionnaire,Marié(e),493549,Ouagadougou,Kadiogo,Centre
+8,ANK-2026-0008,30,Sociale,validee,2026-01-22 15:26:58,Salarié(e),Marié(e),181486,Ouagadougou,Kadiogo,Centre
+9,ANK-2026-0009,4,Appui à l'Autoconstruction,attente,2026-03-06 01:59:19,Indépendant(e),Marié(e),594466,Ouagadougou,Kadiogo,Centre
+10,ANK-2026-0010,25,Appui à l'Autoconstruction,rejetee,2026-02-08 16:29:34,Salarié(e),Marié(e),312637,Ouagadougou,Kadiogo,Centre
+11,ANK-2026-0011,43,Appui à l'Autoconstruction,attente,2026-01-28 01:11:31,Indépendant(e),Divorcé(e),315479,Kaya,Sanmatenga,Centre-Nord
+12,ANK-2026-0012,9,Coopérative de logement,active,2026-03-17 01:58:54,Chômeur/Chômeuse,Veuf/Veuve,479743,Ouagadougou,Kadiogo,Centre
+13,ANK-2026-0013,36,Économique,rejetee,2026-02-04 02:13:47,Indépendant(e),Divorcé(e),217795,Ouagadougou,Kadiogo,Centre
+14,ANK-2026-0014,83,Sociale,correction_demandee,2026-02-19 11:00:04,Chômeur/Chômeuse,Marié(e),144879,Ouagadougou,Kadiogo,Centre
+15,ANK-2026-0015,52,Coopérative de logement,validee,2026-03-07 23:23:31,Chômeur/Chômeuse,Célibataire,517320,Koudougou,Boulkiemdé,Centre-Ouest
+16,ANK-2026-0016,69,Sociale,rejetee,2026-02-02 03:38:06,Indépendant(e),Célibataire,45486,Koudougou,Boulkiemdé,Centre-Ouest
+17,ANK-2026-0017,4,Économique,correction_demandee,2026-01-12 04:45:56,Salarié(e),Célibataire,102103,Ouagadougou,Kadiogo,Centre
+18,ANK-2026-0018,34,Sociale,validee,2026-01-18 08:05:35,Indépendant(e),Veuf/Veuve,290399,Ouagadougou,Kadiogo,Centre
+19,ANK-2026-0019,75,Économique,validee,2026-01-26 18:34:53,Chômeur/Chômeuse,Veuf/Veuve,497608,Ouagadougou,Kadiogo,Centre
+20,ANK-2026-0020,5,Sociale,active,2026-01-11 12:35:46,Indépendant(e),Marié(e),318188,Ouagadougou,Kadiogo,Centre
+21,ANK-2026-0021,77,Appui à l'Autoconstruction,validee,2026-02-12 04:36:25,Salarié(e),Marié(e),240038,Ouagadougou,Kadiogo,Centre
+22,ANK-2026-0022,45,Économique,rejetee,2026-03-12 17:37:58,Fonctionnaire,Veuf/Veuve,26840,Kaya,Sanmatenga,Centre-Nord
+23,ANK-2026-0023,41,Économique,validee,2026-02-12 08:52:17,Fonctionnaire,Célibataire,582030,Koudougou,Boulkiemdé,Centre-Ouest
+24,ANK-2026-0024,78,Économique,correction_demandee,2026-02-19 15:42:07,Indépendant(e),Veuf/Veuve,136351,Ziniaré,Oubritenga,Plateau-Central
+25,ANK-2026-0025,15,Économique,correction_demandee,2026-02-07 09:34:13,Indépendant(e),Marié(e),303628,Bobo-Dioulasso,Houet,Hauts-Bassins
+26,ANK-2026-0026,74,Économique,validee,2026-01-19 10:54:56,Fonctionnaire,Divorcé(e),501427,Kaya,Sanmatenga,Centre-Nord
+27,ANK-2026-0027,33,Économique,active,2026-01-05 07:25:41,Indépendant(e),Célibataire,329605,Ziniaré,Oubritenga,Plateau-Central
+28,ANK-2026-0028,91,Appui à l'Autoconstruction,validee,2026-02-12 08:05:15,Salarié(e),Veuf/Veuve,530592,Bobo-Dioulasso,Houet,Hauts-Bassins
+29,ANK-2026-0029,1,Économique,rejetee,2026-02-20 11:30:07,Fonctionnaire,Divorcé(e),565056,Koudougou,Boulkiemdé,Centre-Ouest
+30,ANK-2026-0030,69,Appui à l'Autoconstruction,validee,2026-03-08 16:29:35,Chômeur/Chômeuse,Divorcé(e),391035,Koudougou,Boulkiemdé,Centre-Ouest
+31,ANK-2026-0031,93,Coopérative de logement,rejetee,2026-03-14 00:52:08,Fonctionnaire,Divorcé(e),294637,Bobo-Dioulasso,Houet,Hauts-Bassins
+32,ANK-2026-0032,95,Sociale,attente,2026-03-07 02:40:39,Fonctionnaire,Célibataire,333863,Ouagadougou,Kadiogo,Centre
+33,ANK-2026-0033,26,Appui à l'Autoconstruction,correction_demandee,2026-02-05 08:41:51,Indépendant(e),Divorcé(e),375509,Koudougou,Boulkiemdé,Centre-Ouest
+34,ANK-2026-0034,56,Sociale,rejetee,2026-01-07 19:03:02,Chômeur/Chômeuse,Divorcé(e),229533,Ouagadougou,Kadiogo,Centre
+35,ANK-2026-0035,86,Économique,correction_demandee,2026-03-31 09:33:05,Indépendant(e),Divorcé(e),82771,Ziniaré,Oubritenga,Plateau-Central
+36,ANK-2026-0036,43,Sociale,validee,2026-03-02 12:03:26,Fonctionnaire,Divorcé(e),244826,Kaya,Sanmatenga,Centre-Nord
+37,ANK-2026-0037,41,Sociale,validee,2026-03-06 09:48:17,Indépendant(e),Marié(e),150877,Koudougou,Boulkiemdé,Centre-Ouest
+38,ANK-2026-0038,16,Économique,validee,2026-03-11 21:08:56,Fonctionnaire,Marié(e),493476,Kaya,Sanmatenga,Centre-Nord
+39,ANK-2026-0039,39,Sociale,attente,2026-02-19 05:40:51,Salarié(e),Marié(e),353723,Koudougou,Boulkiemdé,Centre-Ouest
+40,ANK-2026-0040,40,Coopérative de logement,validee,2026-03-06 17:58:23,Chômeur/Chômeuse,Marié(e),362195,Ouagadougou,Kadiogo,Centre
+41,ANK-2026-0041,53,Sociale,active,2026-02-01 16:03:40,Salarié(e),Divorcé(e),278511,Ouagadougou,Kadiogo,Centre
+42,ANK-2026-0042,52,Sociale,validee,2026-03-09 16:36:48,Indépendant(e),Divorcé(e),412341,Koudougou,Boulkiemdé,Centre-Ouest
+43,ANK-2026-0043,38,Sociale,validee,2026-02-23 19:52:28,Chômeur/Chômeuse,Célibataire,345748,Ouagadougou,Kadiogo,Centre
+44,ANK-2026-0044,17,Appui à l'Autoconstruction,validee,2026-01-19 15:01:11,Salarié(e),Marié(e),158947,Ouagadougou,Kadiogo,Centre
+45,ANK-2026-0045,54,Appui à l'Autoconstruction,rejetee,2026-03-06 13:23:52,Fonctionnaire,Marié(e),499172,Ouagadougou,Kadiogo,Centre
+46,ANK-2026-0046,49,Sociale,rejetee,2026-03-07 18:15:54,Fonctionnaire,Marié(e),581340,Ouagadougou,Kadiogo,Centre
+47,ANK-2026-0047,96,Sociale,active,2026-03-29 15:41:21,Chômeur/Chômeuse,Célibataire,24402,Koudougou,Boulkiemdé,Centre-Ouest
+48,ANK-2026-0048,23,Sociale,validee,2026-03-01 18:15:13,Indépendant(e),Célibataire,194243,Bobo-Dioulasso,Houet,Hauts-Bassins
+49,ANK-2026-0049,73,Économique,validee,2026-01-30 05:15:50,Salarié(e),Veuf/Veuve,73856,Ouagadougou,Kadiogo,Centre
+50,ANK-2026-0050,52,Sociale,validee,2026-02-23 04:47:10,Indépendant(e),Divorcé(e),96337,Koudougou,Boulkiemdé,Centre-Ouest
+51,ANK-2026-0051,1,Sociale,attente,2026-01-30 12:04:47,Chômeur/Chômeuse,Veuf/Veuve,299964,Koudougou,Boulkiemdé,Centre-Ouest
+52,ANK-2026-0052,37,Sociale,rejetee,2026-01-21 09:45:40,Chômeur/Chômeuse,Divorcé(e),544271,Ouagadougou,Kadiogo,Centre
+53,ANK-2026-0053,56,Économique,active,2026-03-18 06:57:02,Chômeur/Chômeuse,Divorcé(e),182894,Ouagadougou,Kadiogo,Centre
+54,ANK-2026-0054,75,Sociale,validee,2026-02-28 21:37:26,Fonctionnaire,Divorcé(e),131628,Ouagadougou,Kadiogo,Centre
+55,ANK-2026-0055,84,Coopérative de logement,attente,2026-02-01 06:53:42,Chômeur/Chômeuse,Veuf/Veuve,162358,Bobo-Dioulasso,Houet,Hauts-Bassins
+56,ANK-2026-0056,60,Appui à l'Autoconstruction,validee,2026-02-12 21:26:09,Indépendant(e),Célibataire,124720,Kaya,Sanmatenga,Centre-Nord
+57,ANK-2026-0057,57,Sociale,validee,2026-03-07 14:19:32,Salarié(e),Veuf/Veuve,582314,Bobo-Dioulasso,Houet,Hauts-Bassins
+58,ANK-2026-0058,28,Économique,validee,2026-02-19 15:07:18,Indépendant(e),Divorcé(e),350422,Ouagadougou,Kadiogo,Centre
+59,ANK-2026-0059,61,Appui à l'Autoconstruction,validee,2026-03-19 01:32:15,Fonctionnaire,Marié(e),590328,Ouagadougou,Kadiogo,Centre
+60,ANK-2026-0060,95,Coopérative de logement,rejetee,2026-01-17 11:24:34,Salarié(e),Célibataire,158903,Ouagadougou,Kadiogo,Centre
+61,ANK-2026-0061,85,Appui à l'Autoconstruction,validee,2026-01-09 05:35:16,Indépendant(e),Célibataire,582263,Bobo-Dioulasso,Houet,Hauts-Bassins
+62,ANK-2026-0062,37,Économique,active,2026-02-20 01:05:24,Chômeur/Chômeuse,Divorcé(e),291283,Ouagadougou,Kadiogo,Centre
+63,ANK-2026-0063,85,Sociale,validee,2026-03-03 10:51:32,Chômeur/Chômeuse,Divorcé(e),296766,Bobo-Dioulasso,Houet,Hauts-Bassins
+64,ANK-2026-0064,80,Coopérative de logement,active,2026-02-02 13:02:42,Salarié(e),Marié(e),455768,Ouagadougou,Kadiogo,Centre
+65,ANK-2026-0065,12,Sociale,validee,2026-03-21 11:03:53,Fonctionnaire,Célibataire,437830,Ouagadougou,Kadiogo,Centre
+66,ANK-2026-0066,97,Économique,active,2026-01-23 19:17:00,Salarié(e),Veuf/Veuve,37603,Bobo-Dioulasso,Houet,Hauts-Bassins
+67,ANK-2026-0067,87,Sociale,validee,2026-01-31 03:19:47,Chômeur/Chômeuse,Célibataire,261166,Bobo-Dioulasso,Houet,Hauts-Bassins
+68,ANK-2026-0068,29,Sociale,rejetee,2026-03-20 07:25:39,Chômeur/Chômeuse,Célibataire,401501,Koudougou,Boulkiemdé,Centre-Ouest
+69,ANK-2026-0069,26,Économique,validee,2026-01-15 07:21:34,Indépendant(e),Marié(e),65834,Koudougou,Boulkiemdé,Centre-Ouest
+70,ANK-2026-0070,4,Coopérative de logement,rejetee,2026-01-05 11:41:08,Indépendant(e),Marié(e),526229,Ouagadougou,Kadiogo,Centre
+71,ANK-2026-0071,32,Sociale,validee,2026-02-16 03:08:52,Indépendant(e),Marié(e),53663,Bobo-Dioulasso,Houet,Hauts-Bassins
+72,ANK-2026-0072,79,Sociale,correction_demandee,2026-03-24 12:01:56,Indépendant(e),Marié(e),416536,Bobo-Dioulasso,Houet,Hauts-Bassins
+73,ANK-2026-0073,99,Économique,rejetee,2026-01-08 01:42:07,Chômeur/Chômeuse,Marié(e),543957,Ouagadougou,Kadiogo,Centre
+74,ANK-2026-0074,59,Économique,rejetee,2026-02-10 05:43:03,Indépendant(e),Divorcé(e),463843,Bobo-Dioulasso,Houet,Hauts-Bassins
+75,ANK-2026-0075,81,Appui à l'Autoconstruction,validee,2026-02-25 21:24:37,Chômeur/Chômeuse,Veuf/Veuve,599524,Ouagadougou,Kadiogo,Centre
+76,ANK-2026-0076,25,Économique,validee,2026-03-11 17:52:02,Fonctionnaire,Marié(e),561383,Ouagadougou,Kadiogo,Centre
+77,ANK-2026-0077,90,Sociale,validee,2026-02-07 06:44:04,Salarié(e),Célibataire,354123,Ziniaré,Oubritenga,Plateau-Central
+78,ANK-2026-0078,64,Sociale,validee,2026-02-08 19:15:31,Chômeur/Chômeuse,Divorcé(e),490105,Ouagadougou,Kadiogo,Centre
+79,ANK-2026-0079,32,Sociale,correction_demandee,2026-01-15 07:51:58,Indépendant(e),Célibataire,511335,Bobo-Dioulasso,Houet,Hauts-Bassins
+80,ANK-2026-0080,84,Sociale,validee,2026-03-08 18:16:34,Salarié(e),Veuf/Veuve,492848,Bobo-Dioulasso,Houet,Hauts-Bassins
+81,ANK-2026-0081,1,Appui à l'Autoconstruction,attente,2026-03-28 16:02:53,Chômeur/Chômeuse,Célibataire,522381,Koudougou,Boulkiemdé,Centre-Ouest
+82,ANK-2026-0082,97,Sociale,rejetee,2026-03-25 12:58:18,Indépendant(e),Marié(e),479953,Bobo-Dioulasso,Houet,Hauts-Bassins
+83,ANK-2026-0083,99,Économique,validee,2026-03-27 23:17:00,Chômeur/Chômeuse,Divorcé(e),70732,Ouagadougou,Kadiogo,Centre
+84,ANK-2026-0084,14,Coopérative de logement,attente,2026-03-17 13:51:03,Indépendant(e),Célibataire,151325,Ouagadougou,Kadiogo,Centre
+85,ANK-2026-0085,55,Sociale,validee,2026-01-22 05:56:12,Fonctionnaire,Célibataire,547782,Ouagadougou,Kadiogo,Centre
+86,ANK-2026-0086,23,Coopérative de logement,rejetee,2026-03-20 01:42:42,Salarié(e),Célibataire,124055,Bobo-Dioulasso,Houet,Hauts-Bassins
+87,ANK-2026-0087,90,Économique,active,2026-02-20 06:55:44,Salarié(e),Marié(e),199884,Ziniaré,Oubritenga,Plateau-Central
+88,ANK-2026-0088,60,Économique,correction_demandee,2026-01-05 21:01:02,Chômeur/Chômeuse,Veuf/Veuve,352532,Kaya,Sanmatenga,Centre-Nord
+89,ANK-2026-0089,72,Coopérative de logement,attente,2026-01-25 04:40:26,Chômeur/Chômeuse,Marié(e),99788,Bobo-Dioulasso,Houet,Hauts-Bassins
+90,ANK-2026-0090,16,Économique,attente,2026-02-14 07:37:59,Salarié(e),Célibataire,572182,Kaya,Sanmatenga,Centre-Nord
+91,ANK-2026-0091,18,Économique,rejetee,2026-03-19 19:26:09,Fonctionnaire,Marié(e),137275,Ouagadougou,Kadiogo,Centre
+92,ANK-2026-0092,60,Sociale,attente,2026-03-06 19:34:07,Chômeur/Chômeuse,Célibataire,319003,Kaya,Sanmatenga,Centre-Nord
+93,ANK-2026-0093,68,Appui à l'Autoconstruction,active,2026-02-24 06:23:25,Chômeur/Chômeuse,Divorcé(e),541382,Ouagadougou,Kadiogo,Centre
+94,ANK-2026-0094,77,Appui à l'Autoconstruction,active,2026-01-31 19:21:28,Chômeur/Chômeuse,Veuf/Veuve,450805,Ouagadougou,Kadiogo,Centre
+95,ANK-2026-0095,97,Sociale,validee,2026-03-28 13:10:22,Indépendant(e),Divorcé(e),502186,Bobo-Dioulasso,Houet,Hauts-Bassins
+96,ANK-2026-0096,57,Sociale,validee,2026-03-01 11:35:00,Salarié(e),Veuf/Veuve,529348,Bobo-Dioulasso,Houet,Hauts-Bassins
+97,ANK-2026-0097,93,Sociale,active,2026-03-28 14:33:28,Salarié(e),Marié(e),434345,Bobo-Dioulasso,Houet,Hauts-Bassins
+98,ANK-2026-0098,65,Sociale,active,2026-02-11 10:22:40,Chômeur/Chômeuse,Célibataire,59854,Kaya,Sanmatenga,Centre-Nord
+99,ANK-2026-0099,71,Sociale,active,2026-02-13 07:03:14,Fonctionnaire,Marié(e),114386,Bobo-Dioulasso,Houet,Hauts-Bassins
+100,ANK-2026-0100,21,Sociale,validee,2026-03-14 04:50:33,Indépendant(e),Divorcé(e),571544,Ouagadougou,Kadiogo,Centre
+101,ANK-2026-0101,61,Économique,active,2026-02-13 16:44:18,Indépendant(e),Marié(e),476161,Ouagadougou,Kadiogo,Centre
+102,ANK-2026-0102,34,Sociale,correction_demandee,2026-03-14 23:46:00,Chômeur/Chômeuse,Divorcé(e),412353,Ouagadougou,Kadiogo,Centre
+103,ANK-2026-0103,32,Sociale,rejetee,2026-03-23 13:01:20,Salarié(e),Divorcé(e),98188,Bobo-Dioulasso,Houet,Hauts-Bassins
+104,ANK-2026-0104,82,Coopérative de logement,rejetee,2026-01-27 22:10:56,Indépendant(e),Veuf/Veuve,583505,Ziniaré,Oubritenga,Plateau-Central
+105,ANK-2026-0105,99,Économique,rejetee,2026-03-17 12:06:49,Salarié(e),Marié(e),379015,Ouagadougou,Kadiogo,Centre
+106,ANK-2026-0106,67,Économique,active,2026-02-17 01:11:34,Salarié(e),Divorcé(e),137688,Ouagadougou,Kadiogo,Centre
+107,ANK-2026-0107,81,Sociale,validee,2026-01-24 05:28:59,Fonctionnaire,Célibataire,292294,Ouagadougou,Kadiogo,Centre
+108,ANK-2026-0108,36,Économique,attente,2026-02-12 16:58:38,Fonctionnaire,Marié(e),550969,Ouagadougou,Kadiogo,Centre
+109,ANK-2026-0109,10,Économique,validee,2026-03-11 06:40:48,Chômeur/Chômeuse,Veuf/Veuve,364089,Bobo-Dioulasso,Houet,Hauts-Bassins
+110,ANK-2026-0110,37,Économique,active,2026-01-23 18:24:34,Fonctionnaire,Divorcé(e),370191,Ouagadougou,Kadiogo,Centre
+111,ANK-2026-0111,35,Sociale,validee,2026-02-02 14:34:53,Chômeur/Chômeuse,Marié(e),120428,Bobo-Dioulasso,Houet,Hauts-Bassins
+112,ANK-2026-0112,41,Économique,rejetee,2026-03-28 16:54:12,Indépendant(e),Marié(e),402379,Koudougou,Boulkiemdé,Centre-Ouest
+113,ANK-2026-0113,70,Sociale,validee,2026-01-08 19:45:34,Salarié(e),Marié(e),92532,Ouagadougou,Kadiogo,Centre
+114,ANK-2026-0114,18,Sociale,validee,2026-01-15 15:27:39,Chômeur/Chômeuse,Veuf/Veuve,290187,Ouagadougou,Kadiogo,Centre
+115,ANK-2026-0115,30,Coopérative de logement,attente,2026-02-07 04:32:12,Fonctionnaire,Divorcé(e),259047,Ouagadougou,Kadiogo,Centre
+116,ANK-2026-0116,89,Sociale,correction_demandee,2026-01-15 20:03:43,Indépendant(e),Célibataire,126655,Ouagadougou,Kadiogo,Centre
+117,ANK-2026-0117,91,Économique,rejetee,2026-01-21 18:32:46,Indépendant(e),Célibataire,413011,Bobo-Dioulasso,Houet,Hauts-Bassins
+118,ANK-2026-0118,9,Économique,validee,2026-02-10 06:42:44,Salarié(e),Célibataire,463137,Ouagadougou,Kadiogo,Centre
+119,ANK-2026-0119,53,Sociale,active,2026-02-02 03:00:34,Indépendant(e),Veuf/Veuve,539372,Ouagadougou,Kadiogo,Centre
+120,ANK-2026-0120,70,Économique,validee,2026-02-15 05:40:56,Indépendant(e),Veuf/Veuve,85658,Ouagadougou,Kadiogo,Centre
+121,ANK-2026-0121,54,Coopérative de logement,active,2026-01-07 01:05:22,Chômeur/Chômeuse,Veuf/Veuve,422570,Ouagadougou,Kadiogo,Centre
+122,ANK-2026-0122,27,Sociale,correction_demandee,2026-03-22 20:46:37,Chômeur/Chômeuse,Divorcé(e),529060,Ouagadougou,Kadiogo,Centre
+123,ANK-2026-0123,54,Coopérative de logement,correction_demandee,2026-02-07 19:32:48,Chômeur/Chômeuse,Divorcé(e),493498,Ouagadougou,Kadiogo,Centre
+124,ANK-2026-0124,99,Sociale,active,2026-02-26 17:00:13,Chômeur/Chômeuse,Marié(e),47058,Ouagadougou,Kadiogo,Centre
+125,ANK-2026-0125,90,Économique,active,2026-01-02 21:30:45,Fonctionnaire,Célibataire,272033,Ziniaré,Oubritenga,Plateau-Central
+126,ANK-2026-0126,98,Coopérative de logement,active,2026-02-25 21:27:20,Fonctionnaire,Marié(e),166605,Kaya,Sanmatenga,Centre-Nord
+127,ANK-2026-0127,49,Appui à l'Autoconstruction,attente,2026-02-16 07:26:36,Indépendant(e),Célibataire,570901,Ouagadougou,Kadiogo,Centre
+128,ANK-2026-0128,1,Appui à l'Autoconstruction,rejetee,2026-02-04 03:39:26,Fonctionnaire,Veuf/Veuve,348892,Koudougou,Boulkiemdé,Centre-Ouest
+129,ANK-2026-0129,39,Sociale,validee,2026-03-15 03:43:27,Fonctionnaire,Célibataire,197398,Koudougou,Boulkiemdé,Centre-Ouest
+130,ANK-2026-0130,50,Appui à l'Autoconstruction,validee,2026-03-24 20:40:40,Indépendant(e),Célibataire,116286,Bobo-Dioulasso,Houet,Hauts-Bassins
+131,ANK-2026-0131,54,Économique,validee,2026-02-22 06:08:41,Fonctionnaire,Divorcé(e),71109,Ouagadougou,Kadiogo,Centre
+132,ANK-2026-0132,96,Économique,attente,2026-03-13 07:49:17,Fonctionnaire,Marié(e),200130,Koudougou,Boulkiemdé,Centre-Ouest
+133,ANK-2026-0133,70,Appui à l'Autoconstruction,validee,2026-03-19 15:49:40,Indépendant(e),Veuf/Veuve,517383,Ouagadougou,Kadiogo,Centre
+134,ANK-2026-0134,78,Coopérative de logement,rejetee,2026-03-29 04:03:07,Indépendant(e),Divorcé(e),490720,Ziniaré,Oubritenga,Plateau-Central
+135,ANK-2026-0135,29,Sociale,active,2026-02-17 09:39:25,Salarié(e),Divorcé(e),145513,Koudougou,Boulkiemdé,Centre-Ouest
+136,ANK-2026-0136,29,Économique,validee,2026-01-27 11:59:07,Indépendant(e),Célibataire,130926,Koudougou,Boulkiemdé,Centre-Ouest
+137,ANK-2026-0137,56,Appui à l'Autoconstruction,validee,2026-02-17 03:37:40,Chômeur/Chômeuse,Divorcé(e),238530,Ouagadougou,Kadiogo,Centre
+138,ANK-2026-0138,4,Sociale,rejetee,2026-02-07 18:06:10,Fonctionnaire,Célibataire,484965,Ouagadougou,Kadiogo,Centre
+139,ANK-2026-0139,44,Sociale,rejetee,2026-03-06 22:35:18,Salarié(e),Veuf/Veuve,542322,Ouagadougou,Kadiogo,Centre
+140,ANK-2026-0140,87,Économique,active,2026-03-19 11:48:23,Chômeur/Chômeuse,Célibataire,49411,Bobo-Dioulasso,Houet,Hauts-Bassins
+141,ANK-2026-0141,52,Appui à l'Autoconstruction,attente,2026-03-12 07:27:53,Indépendant(e),Marié(e),508313,Koudougou,Boulkiemdé,Centre-Ouest
+142,ANK-2026-0142,22,Appui à l'Autoconstruction,active,2026-03-23 14:31:12,Salarié(e),Célibataire,85375,Ouagadougou,Kadiogo,Centre
+143,ANK-2026-0143,60,Sociale,rejetee,2026-03-31 06:41:14,Salarié(e),Divorcé(e),93216,Kaya,Sanmatenga,Centre-Nord
+144,ANK-2026-0144,17,Économique,validee,2026-03-02 09:57:49,Chômeur/Chômeuse,Marié(e),201958,Ouagadougou,Kadiogo,Centre
+145,ANK-2026-0145,69,Économique,rejetee,2026-01-03 14:50:10,Indépendant(e),Veuf/Veuve,272630,Koudougou,Boulkiemdé,Centre-Ouest
+146,ANK-2026-0146,51,Appui à l'Autoconstruction,correction_demandee,2026-02-27 11:12:36,Chômeur/Chômeuse,Marié(e),94900,Ziniaré,Oubritenga,Plateau-Central
+147,ANK-2026-0147,73,Économique,validee,2026-03-06 08:54:05,Chômeur/Chômeuse,Veuf/Veuve,455414,Ouagadougou,Kadiogo,Centre
+148,ANK-2026-0148,4,Sociale,correction_demandee,2026-01-09 03:36:42,Chômeur/Chômeuse,Marié(e),134423,Ouagadougou,Kadiogo,Centre
+149,ANK-2026-0149,83,Coopérative de logement,validee,2026-02-11 14:44:24,Indépendant(e),Divorcé(e),243905,Ouagadougou,Kadiogo,Centre
+150,ANK-2026-0150,18,Économique,validee,2026-03-26 03:54:36,Indépendant(e),Marié(e),373413,Ouagadougou,Kadiogo,Centre
+151,ANK-2026-0151,60,Sociale,validee,2026-01-18 15:27:33,Chômeur/Chômeuse,Célibataire,283126,Kaya,Sanmatenga,Centre-Nord
+152,ANK-2026-0152,7,Sociale,correction_demandee,2026-01-26 06:12:29,Indépendant(e),Célibataire,386533,Ouagadougou,Kadiogo,Centre
+153,ANK-2026-0153,49,Économique,validee,2026-02-01 18:47:13,Chômeur/Chômeuse,Veuf/Veuve,417559,Ouagadougou,Kadiogo,Centre
+154,ANK-2026-0154,28,Appui à l'Autoconstruction,correction_demandee,2026-02-14 03:31:34,Chômeur/Chômeuse,Marié(e),209757,Ouagadougou,Kadiogo,Centre
+155,ANK-2026-0155,42,Coopérative de logement,validee,2026-02-02 18:25:59,Fonctionnaire,Divorcé(e),202353,Koudougou,Boulkiemdé,Centre-Ouest
+156,ANK-2026-0156,98,Sociale,validee,2026-03-27 09:42:35,Chômeur/Chômeuse,Marié(e),537909,Kaya,Sanmatenga,Centre-Nord
+157,ANK-2026-0157,49,Sociale,validee,2026-01-28 00:23:05,Fonctionnaire,Célibataire,221222,Ouagadougou,Kadiogo,Centre
+158,ANK-2026-0158,97,Économique,validee,2026-03-22 18:31:26,Fonctionnaire,Marié(e),397468,Bobo-Dioulasso,Houet,Hauts-Bassins
+159,ANK-2026-0159,54,Sociale,validee,2026-01-25 11:50:06,Indépendant(e),Célibataire,115259,Ouagadougou,Kadiogo,Centre
+160,ANK-2026-0160,11,Sociale,validee,2026-02-15 15:53:39,Indépendant(e),Divorcé(e),567986,Bobo-Dioulasso,Houet,Hauts-Bassins
+161,ANK-2026-0161,3,Économique,validee,2026-03-14 17:21:10,Chômeur/Chômeuse,Marié(e),113787,Ouagadougou,Kadiogo,Centre
+162,ANK-2026-0162,70,Sociale,rejetee,2026-01-06 01:22:05,Salarié(e),Veuf/Veuve,284775,Ouagadougou,Kadiogo,Centre
+163,ANK-2026-0163,45,Économique,validee,2026-01-22 18:28:31,Chômeur/Chômeuse,Divorcé(e),365166,Kaya,Sanmatenga,Centre-Nord
+164,ANK-2026-0164,84,Sociale,validee,2026-01-07 15:53:32,Fonctionnaire,Divorcé(e),240739,Bobo-Dioulasso,Houet,Hauts-Bassins
+165,ANK-2026-0165,100,Coopérative de logement,rejetee,2026-03-05 06:41:54,Chômeur/Chômeuse,Célibataire,131353,Koudougou,Boulkiemdé,Centre-Ouest
+166,ANK-2026-0166,6,Économique,correction_demandee,2026-03-15 05:29:26,Indépendant(e),Divorcé(e),501720,Koudougou,Boulkiemdé,Centre-Ouest
+167,ANK-2026-0167,4,Sociale,attente,2026-01-25 00:12:42,Indépendant(e),Marié(e),197465,Ouagadougou,Kadiogo,Centre
+168,ANK-2026-0168,26,Économique,validee,2026-03-23 11:32:41,Salarié(e),Divorcé(e),332922,Koudougou,Boulkiemdé,Centre-Ouest
+169,ANK-2026-0169,3,Économique,active,2026-03-02 07:49:01,Salarié(e),Célibataire,432233,Ouagadougou,Kadiogo,Centre
+170,ANK-2026-0170,20,Économique,correction_demandee,2026-01-24 03:51:00,Fonctionnaire,Célibataire,211314,Ouagadougou,Kadiogo,Centre
+171,ANK-2026-0171,17,Sociale,active,2026-02-15 23:28:38,Chômeur/Chômeuse,Marié(e),364911,Ouagadougou,Kadiogo,Centre
+172,ANK-2026-0172,86,Sociale,attente,2026-01-12 02:32:48,Fonctionnaire,Marié(e),456584,Ziniaré,Oubritenga,Plateau-Central
+173,ANK-2026-0173,73,Économique,validee,2026-01-22 03:53:39,Chômeur/Chômeuse,Divorcé(e),528244,Ouagadougou,Kadiogo,Centre
+174,ANK-2026-0174,60,Sociale,validee,2026-03-09 21:52:17,Salarié(e),Célibataire,64977,Kaya,Sanmatenga,Centre-Nord
+175,ANK-2026-0175,33,Sociale,validee,2026-03-16 11:00:07,Fonctionnaire,Veuf/Veuve,544313,Ziniaré,Oubritenga,Plateau-Central
+176,ANK-2026-0176,48,Économique,rejetee,2026-01-17 06:58:37,Fonctionnaire,Divorcé(e),97259,Bobo-Dioulasso,Houet,Hauts-Bassins
+177,ANK-2026-0177,78,Appui à l'Autoconstruction,correction_demandee,2026-02-28 22:59:21,Chômeur/Chômeuse,Célibataire,391522,Ziniaré,Oubritenga,Plateau-Central
+178,ANK-2026-0178,96,Économique,active,2026-03-11 17:53:37,Fonctionnaire,Divorcé(e),545707,Koudougou,Boulkiemdé,Centre-Ouest
+179,ANK-2026-0179,15,Appui à l'Autoconstruction,validee,2026-03-17 12:23:11,Indépendant(e),Marié(e),508291,Bobo-Dioulasso,Houet,Hauts-Bassins
+180,ANK-2026-0180,21,Sociale,validee,2026-01-31 04:46:23,Salarié(e),Veuf/Veuve,503020,Ouagadougou,Kadiogo,Centre
+181,ANK-2026-0181,14,Sociale,validee,2026-02-26 04:25:59,Salarié(e),Divorcé(e),515943,Ouagadougou,Kadiogo,Centre
+182,ANK-2026-0182,4,Sociale,attente,2026-04-01 04:27:50,Fonctionnaire,Célibataire,272191,Ouagadougou,Kadiogo,Centre
+183,ANK-2026-0183,40,Appui à l'Autoconstruction,validee,2026-02-25 21:42:13,Fonctionnaire,Veuf/Veuve,522711,Ouagadougou,Kadiogo,Centre
+184,ANK-2026-0184,87,Sociale,validee,2026-03-30 03:51:15,Salarié(e),Marié(e),432311,Bobo-Dioulasso,Houet,Hauts-Bassins
+185,ANK-2026-0185,49,Économique,rejetee,2026-02-08 12:16:18,Salarié(e),Célibataire,404277,Ouagadougou,Kadiogo,Centre
+186,ANK-2026-0186,92,Appui à l'Autoconstruction,validee,2026-01-20 06:08:30,Indépendant(e),Célibataire,470354,Ouagadougou,Kadiogo,Centre
+187,ANK-2026-0187,10,Appui à l'Autoconstruction,correction_demandee,2026-02-27 11:41:16,Indépendant(e),Veuf/Veuve,513023,Bobo-Dioulasso,Houet,Hauts-Bassins
+188,ANK-2026-0188,89,Sociale,active,2026-03-22 15:22:19,Indépendant(e),Marié(e),235025,Ouagadougou,Kadiogo,Centre
+189,ANK-2026-0189,81,Économique,rejetee,2026-01-24 13:52:48,Indépendant(e),Célibataire,153984,Ouagadougou,Kadiogo,Centre
+190,ANK-2026-0190,14,Économique,active,2026-03-09 16:34:38,Indépendant(e),Veuf/Veuve,459326,Ouagadougou,Kadiogo,Centre
+191,ANK-2026-0191,99,Économique,attente,2026-01-30 06:44:18,Chômeur/Chômeuse,Célibataire,182593,Ouagadougou,Kadiogo,Centre
+192,ANK-2026-0192,88,Coopérative de logement,active,2026-02-28 07:03:37,Salarié(e),Divorcé(e),330949,Ouagadougou,Kadiogo,Centre
+193,ANK-2026-0193,16,Coopérative de logement,active,2026-03-19 07:20:37,Fonctionnaire,Divorcé(e),390175,Kaya,Sanmatenga,Centre-Nord
+194,ANK-2026-0194,73,Économique,rejetee,2026-03-17 23:40:21,Chômeur/Chômeuse,Divorcé(e),92930,Ouagadougou,Kadiogo,Centre
+195,ANK-2026-0195,6,Sociale,active,2026-02-03 17:02:36,Chômeur/Chômeuse,Célibataire,51877,Koudougou,Boulkiemdé,Centre-Ouest
+196,ANK-2026-0196,69,Économique,rejetee,2026-02-11 14:11:35,Chômeur/Chômeuse,Marié(e),393822,Koudougou,Boulkiemdé,Centre-Ouest
+197,ANK-2026-0197,85,Coopérative de logement,validee,2026-02-05 23:29:33,Fonctionnaire,Divorcé(e),255080,Bobo-Dioulasso,Houet,Hauts-Bassins
+198,ANK-2026-0198,9,Économique,active,2026-02-19 02:58:26,Chômeur/Chômeuse,Divorcé(e),564724,Ouagadougou,Kadiogo,Centre
+199,ANK-2026-0199,83,Appui à l'Autoconstruction,rejetee,2026-02-03 03:07:34,Chômeur/Chômeuse,Veuf/Veuve,71038,Ouagadougou,Kadiogo,Centre
+200,ANK-2026-0200,2,Appui à l'Autoconstruction,active,2026-03-24 11:39:16,Chômeur/Chômeuse,Divorcé(e),249111,Bobo-Dioulasso,Houet,Hauts-Bassins
+201,ANK-2026-0201,54,Sociale,validee,2026-03-21 20:10:11,Salarié(e),Divorcé(e),134704,Ouagadougou,Kadiogo,Centre
+202,ANK-2026-0202,63,Économique,validee,2026-01-11 05:55:24,Fonctionnaire,Veuf/Veuve,460506,Koudougou,Boulkiemdé,Centre-Ouest
+203,ANK-2026-0203,56,Sociale,rejetee,2026-02-05 03:57:33,Indépendant(e),Veuf/Veuve,207022,Ouagadougou,Kadiogo,Centre
+204,ANK-2026-0204,82,Sociale,rejetee,2026-03-28 13:31:13,Indépendant(e),Célibataire,277983,Ziniaré,Oubritenga,Plateau-Central
+205,ANK-2026-0205,59,Économique,rejetee,2026-03-10 16:08:54,Fonctionnaire,Marié(e),217389,Bobo-Dioulasso,Houet,Hauts-Bassins
+206,ANK-2026-0206,20,Économique,active,2026-02-12 06:45:30,Salarié(e),Marié(e),39336,Ouagadougou,Kadiogo,Centre
+207,ANK-2026-0207,23,Sociale,active,2026-03-13 05:52:01,Salarié(e),Veuf/Veuve,271295,Bobo-Dioulasso,Houet,Hauts-Bassins
+208,ANK-2026-0208,67,Économique,attente,2026-03-05 03:40:32,Indépendant(e),Célibataire,244760,Ouagadougou,Kadiogo,Centre
+209,ANK-2026-0209,35,Économique,correction_demandee,2026-03-01 19:10:47,Chômeur/Chômeuse,Divorcé(e),31740,Bobo-Dioulasso,Houet,Hauts-Bassins
+210,ANK-2026-0210,69,Économique,validee,2026-03-17 05:02:43,Indépendant(e),Veuf/Veuve,241247,Koudougou,Boulkiemdé,Centre-Ouest
+211,ANK-2026-0211,62,Appui à l'Autoconstruction,validee,2026-02-15 03:14:03,Fonctionnaire,Veuf/Veuve,166368,Kaya,Sanmatenga,Centre-Nord
+212,ANK-2026-0212,56,Sociale,validee,2026-03-22 04:06:03,Chômeur/Chômeuse,Marié(e),244710,Ouagadougou,Kadiogo,Centre
+213,ANK-2026-0213,94,Économique,rejetee,2026-02-27 12:33:57,Chômeur/Chômeuse,Célibataire,37145,Bobo-Dioulasso,Houet,Hauts-Bassins
+214,ANK-2026-0214,35,Sociale,attente,2026-02-01 07:01:26,Chômeur/Chômeuse,Veuf/Veuve,595910,Bobo-Dioulasso,Houet,Hauts-Bassins
+215,ANK-2026-0215,32,Sociale,validee,2026-03-22 15:44:36,Fonctionnaire,Célibataire,216435,Bobo-Dioulasso,Houet,Hauts-Bassins
+216,ANK-2026-0216,12,Sociale,validee,2026-01-28 01:56:59,Indépendant(e),Veuf/Veuve,498687,Ouagadougou,Kadiogo,Centre
+217,ANK-2026-0217,58,Économique,active,2026-01-24 16:14:34,Salarié(e),Veuf/Veuve,168717,Kaya,Sanmatenga,Centre-Nord
+218,ANK-2026-0218,97,Économique,validee,2026-02-15 02:50:57,Fonctionnaire,Marié(e),73249,Bobo-Dioulasso,Houet,Hauts-Bassins
+219,ANK-2026-0219,73,Sociale,validee,2026-03-01 06:10:33,Indépendant(e),Veuf/Veuve,82195,Ouagadougou,Kadiogo,Centre
+220,ANK-2026-0220,86,Appui à l'Autoconstruction,validee,2026-02-06 19:06:32,Fonctionnaire,Célibataire,122548,Ziniaré,Oubritenga,Plateau-Central
+221,ANK-2026-0221,44,Économique,correction_demandee,2026-01-03 18:52:33,Indépendant(e),Divorcé(e),571349,Ouagadougou,Kadiogo,Centre
+222,ANK-2026-0222,64,Économique,correction_demandee,2026-03-24 14:51:49,Salarié(e),Veuf/Veuve,455227,Ouagadougou,Kadiogo,Centre
+223,ANK-2026-0223,42,Sociale,active,2026-01-18 15:43:03,Chômeur/Chômeuse,Célibataire,283517,Koudougou,Boulkiemdé,Centre-Ouest
+224,ANK-2026-0224,63,Économique,active,2026-01-21 14:16:30,Chômeur/Chômeuse,Veuf/Veuve,145973,Koudougou,Boulkiemdé,Centre-Ouest
+225,ANK-2026-0225,46,Sociale,validee,2026-03-19 11:05:02,Chômeur/Chômeuse,Veuf/Veuve,104912,Ouagadougou,Kadiogo,Centre
+226,ANK-2026-0226,34,Sociale,active,2026-02-03 01:02:49,Fonctionnaire,Marié(e),294573,Ouagadougou,Kadiogo,Centre
+227,ANK-2026-0227,36,Appui à l'Autoconstruction,active,2026-03-27 11:17:39,Fonctionnaire,Célibataire,83925,Ouagadougou,Kadiogo,Centre
+228,ANK-2026-0228,77,Sociale,attente,2026-03-10 01:52:35,Salarié(e),Marié(e),201093,Ouagadougou,Kadiogo,Centre
+229,ANK-2026-0229,36,Sociale,validee,2026-02-23 23:05:13,Salarié(e),Divorcé(e),163717,Ouagadougou,Kadiogo,Centre
+230,ANK-2026-0230,2,Sociale,active,2026-02-20 03:49:43,Salarié(e),Divorcé(e),52929,Bobo-Dioulasso,Houet,Hauts-Bassins
+231,ANK-2026-0231,25,Sociale,rejetee,2026-01-09 07:29:33,Chômeur/Chômeuse,Veuf/Veuve,188294,Ouagadougou,Kadiogo,Centre
+232,ANK-2026-0232,31,Appui à l'Autoconstruction,validee,2026-03-11 21:53:44,Chômeur/Chômeuse,Marié(e),551467,Bobo-Dioulasso,Houet,Hauts-Bassins
+233,ANK-2026-0233,53,Économique,validee,2026-02-17 10:28:08,Indépendant(e),Célibataire,55941,Ouagadougou,Kadiogo,Centre
+234,ANK-2026-0234,72,Sociale,rejetee,2026-03-15 14:39:06,Salarié(e),Divorcé(e),151764,Bobo-Dioulasso,Houet,Hauts-Bassins
+235,ANK-2026-0235,31,Sociale,active,2026-03-09 01:14:11,Indépendant(e),Célibataire,266443,Bobo-Dioulasso,Houet,Hauts-Bassins
+236,ANK-2026-0236,61,Économique,rejetee,2026-03-04 17:03:46,Fonctionnaire,Veuf/Veuve,311935,Ouagadougou,Kadiogo,Centre
+237,ANK-2026-0237,92,Appui à l'Autoconstruction,rejetee,2026-02-17 15:41:47,Chômeur/Chômeuse,Célibataire,117408,Ouagadougou,Kadiogo,Centre
+238,ANK-2026-0238,58,Économique,rejetee,2026-03-18 23:40:03,Fonctionnaire,Divorcé(e),519075,Kaya,Sanmatenga,Centre-Nord
+239,ANK-2026-0239,3,Sociale,validee,2026-01-10 00:49:48,Indépendant(e),Marié(e),566371,Ouagadougou,Kadiogo,Centre
+240,ANK-2026-0240,38,Appui à l'Autoconstruction,active,2026-01-22 12:21:25,Fonctionnaire,Célibataire,408521,Ouagadougou,Kadiogo,Centre
+241,ANK-2026-0241,52,Sociale,rejetee,2026-03-09 03:58:51,Chômeur/Chômeuse,Marié(e),171267,Koudougou,Boulkiemdé,Centre-Ouest
+242,ANK-2026-0242,32,Sociale,correction_demandee,2026-01-30 17:30:42,Indépendant(e),Veuf/Veuve,184112,Bobo-Dioulasso,Houet,Hauts-Bassins
+243,ANK-2026-0243,85,Sociale,validee,2026-02-26 11:07:21,Chômeur/Chômeuse,Divorcé(e),428932,Bobo-Dioulasso,Houet,Hauts-Bassins
+244,ANK-2026-0244,48,Sociale,rejetee,2026-02-15 22:46:36,Indépendant(e),Marié(e),331000,Bobo-Dioulasso,Houet,Hauts-Bassins
+245,ANK-2026-0245,71,Appui à l'Autoconstruction,validee,2026-02-21 13:08:15,Chômeur/Chômeuse,Marié(e),568069,Bobo-Dioulasso,Houet,Hauts-Bassins
+246,ANK-2026-0246,45,Appui à l'Autoconstruction,validee,2026-02-11 07:29:44,Chômeur/Chômeuse,Célibataire,526593,Kaya,Sanmatenga,Centre-Nord
+247,ANK-2026-0247,96,Appui à l'Autoconstruction,validee,2026-02-23 10:29:53,Salarié(e),Célibataire,166684,Koudougou,Boulkiemdé,Centre-Ouest
+248,ANK-2026-0248,43,Sociale,active,2026-02-04 03:46:40,Fonctionnaire,Marié(e),85651,Kaya,Sanmatenga,Centre-Nord
+249,ANK-2026-0249,90,Coopérative de logement,attente,2026-02-14 01:18:11,Indépendant(e),Veuf/Veuve,579235,Ziniaré,Oubritenga,Plateau-Central
+250,ANK-2026-0250,35,Économique,correction_demandee,2026-01-30 18:29:00,Chômeur/Chômeuse,Célibataire,153786,Bobo-Dioulasso,Houet,Hauts-Bassins
